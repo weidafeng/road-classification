@@ -8,5 +8,5 @@ This thesis presents a method of rapid expansion of image data, "Cycle-Cut Metho
 
 During the training process, the model parameters are saved and can be used at any time without having to be re-trained in the future. This process makes it possible to use them for practical applications on mobile robots.
 
-Key words：Terrain environment classification；Machine learning；Convolution neural network；TensorFlow
+# Key words：Terrain environment classification；Machine learning；Convolution neural network；TensorFlow
  
